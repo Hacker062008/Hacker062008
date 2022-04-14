@@ -1,1 +1,0 @@
-link=("https://discord.com/channels/927144289597788160/927144346267033680")
