@@ -1,0 +1,5 @@
+English=("https://teams.microsoft.com/_?lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn&culture=en-in&country=in#/school/conversations/English?threadId=19:49b79153593b41dc9081a2237c7bb5a6@thread.tacv2&ctx=channel")
+Hindi=("https://teams.microsoft.com/_?lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn&culture=en-in&country=in#/school/conversations/Hindi?threadId=19:8432931ef1b844588e24ddca821a6c19@thread.tacv2&ctx=channel")
+Maths=("https://teams.microsoft.com/_?lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn&culture=en-in&country=in#/school/conversations/Maths?threadId=19:4741a426f057456f81c3d3d66c151c19@thread.tacv2&ctx=channel")
+Science=("https://teams.microsoft.com/_?lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn&culture=en-in&country=in#/school/conversations/Science?threadId=19:8987ae84f82e4e5ea26c9008d2944aae@thread.tacv2&ctx=channel")
+Socialscience=("https://teams.microsoft.com/_?lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn&culture=en-in&country=in#/school/conversations/Social%20Science?threadId=19:d77128a160f84f75bad3bea3611a8b0b@thread.tacv2&ctx=channel")
